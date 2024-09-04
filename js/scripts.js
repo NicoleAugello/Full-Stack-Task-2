@@ -1,4 +1,3 @@
-alert('Hello World');
+let pokemonList = [
 
-let favoriteFood = 'Chicken';
-document.write(favoriteFood);
+];
